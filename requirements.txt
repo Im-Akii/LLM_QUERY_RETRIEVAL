@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+requests
+pdfplumber
+python-docx
+openai
+faiss-cpu
+python-dotenv
+pymupdf
+pinecone
